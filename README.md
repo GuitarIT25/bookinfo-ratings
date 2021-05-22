@@ -1,3 +1,7 @@
+# Bookinfo Rating Service
+
+Rating service has been developed on NodeJS
+
 ## How to run with Docker
 
 ```bash
