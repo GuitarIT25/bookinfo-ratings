@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: bookinfo-dev-ratings
-  namespace: student87-bookinfo-dev
+  namespace: student087
   labels:
     app: bookinfo-dev-ratings
 spec:
